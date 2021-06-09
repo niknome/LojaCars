@@ -8,7 +8,6 @@
 4CarsAluguel:
 ![Captura de Tela (255)](https://user-images.githubusercontent.com/79269035/121428897-b5d0f580-c94c-11eb-80c8-c836e5ea65d9.png)
 
-4CarsAluguel ao diminuir tela:
 ![Captura de Tela (257)](https://user-images.githubusercontent.com/79269035/121429502-5f17eb80-c94d-11eb-86f8-b8415d70e102.png)
 
 
