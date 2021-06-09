@@ -1,4 +1,3 @@
-![Captura de Tela (257)](https://user-images.githubusercontent.com/79269035/121429502-5f17eb80-c94d-11eb-86f8-b8415d70e102.png)
 *Esses projetos foram realizados em minhas primeiras semanas de curso na Labenu, apenas com  HTML e CSS puro.
 
 *Apenas clone o repositorio, abra cada pasta em um editor de código de sua preferencia e abra o index.html de cada projeto no seu navegador!
@@ -9,6 +8,8 @@
 ![Captura de Tela (255)](https://user-images.githubusercontent.com/79269035/121428897-b5d0f580-c94c-11eb-80c8-c836e5ea65d9.png)
 
 ![Captura de Tela (257)](https://user-images.githubusercontent.com/79269035/121429502-5f17eb80-c94d-11eb-86f8-b8415d70e102.png)
+
+
 
 
 MeuPorfolio:
